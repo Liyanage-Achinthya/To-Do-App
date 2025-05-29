@@ -30,5 +30,6 @@ A simple and responsive React-based To-Do List web app that lets users add and d
 Netlify: https://checkly-webapp.netlify.app/
 
 ## 👨‍💻 Author
-Your Name – @Liyanage-Achinthya
+
+@Liyanage-Achinthya
 
