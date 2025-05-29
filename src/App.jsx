@@ -1,10 +1,10 @@
-// src/App.jsx
 import React from "react";
+import ToDo from "./components/ToDo";
 
 function App() {
   return (
-    <div>
-      <h1 className="bg-gray-600 text-white">To-Do App</h1>
+    <div className="bg-stone-900 grid py-4 min-h-screen">
+      <ToDo />
     </div>
   );
 }
